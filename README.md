@@ -1,8 +1,8 @@
 
 
-<p align="center">
+<div align="center">
     <img alt="Team Slack Bot usage gif." width="690" height="450" src="team-bot.gif">
-</p>
+</div>
 <h1 align="center">Team Slack Bot</h1>
 
 <p align="center">
