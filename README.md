@@ -6,12 +6,6 @@
 <h1 align="center">Team Slack Bot</h1>
 
 <p align="center">
-    <a href="https://nodei.co/npm/dotenv/"><img src="https://nodei.co/npm/dotenv.png?mini=true"></a>
-    <a href="https://nodei.co/npm/botkit/"><img src="https://nodei.co/npm/botkit.png?mini=true"></a>
-    <a href="https://nodei.co/npm/node/"><img src="https://nodei.co/npm/node.png?mini=true"></a>
-</p>
-
-<p align="center">
     Let your team focus on productivity!
 </p>
 
